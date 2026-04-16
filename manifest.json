@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Context Search Assistant",
+  "version": "1.0",
+  "description": "Inline search and note-taking tool",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
