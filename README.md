@@ -20,13 +20,13 @@ This tool allows users to:
 ## Demo
 
 ### 1. Opening Quick Search Panel
-![Open Panel](./Screenshot_16-4-2026_141641.png)
+![Open Panel](./Screenshot%202026-04-16%20141641.png)
 
 ### 2. Asking a Question
-![Search Input](./Screenshot_16-4-2026_141656.png)
+![Search Input](./Screenshot%2016-4-2026%20141656.png)
 
 ### 3. Viewing Results + Notes
-![Results](./Screenshot_16-4-2026_141710.png)
+![Results](./Screenshot%2016-4-2026%20141710.png)
 
 ## Tech Used
 - JavaScript
