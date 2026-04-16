@@ -23,7 +23,7 @@ This tool allows users to:
 ![Open Panel](./panel.png)
 
 ### 2. Asking a Question
-![Search Input](.search.png)
+![Search Input](./search.png)
 
 ### 3. Viewing Results + Notes
 ![Results](./result.png)
